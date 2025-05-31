@@ -25,11 +25,9 @@ A convolutional neural network project to classify fruit types using the Fruits3
 2. Open `fruit_classification.ipynb` in Colab or Kaggle
 3. Upload dataset, run cells step-by-step
 
-## 📈 Results
-
-* Acuratețe de peste 95% la toate cele 3 modele.
-
 ## 📎 License
 Maydanskyy Dragos-Laurentiu
  
+Made with ❤️ using Python, TensorFlow, and Kaggle GPU
+
 
